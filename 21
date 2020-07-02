@@ -1,1 +1,46 @@
 
+HTML - (Hypertext markup language)
+
+
+Introduction
+HTML stands for hypertext markup language this must be you all well aware of but if not here it is HTML - hypertext markup language it is values language for many purposes like documentation in WordPress that's right used in documentation this word processing document filled with menu of this month of directives as in when you press enter after completing a line or so it might be a break tag<br> tag.
+
+It is taught in our school as a first language and told us by teacher as it is used to design on make website yes it's true but at school level we       are not told that what is real potential of this language.
+
+However in the case of web documents markup in the form of traditional hypertext markup language HTML and its extensible markup language XML focus variant XHTML is little more obvious this not so behind the scene markup language are used to inform web browser about the page structure and some might argue presentation as well.
+
+
+basically an HTML document is simply a text file that contains the information you want to publish and the appropriate markup instruction indicating how the browser should structure of present the document.
+
+
+
+
+
+Before starting to documentation using this tags we will firstly see some of the example for most common elements used in HTML document.
+
+
+Firstly welcome the <! Doctype> statement which indicate the particular version of HTML for XHTML being used in the document.
+
+
+<HTML> <head> <body>  <title> used to specify the general structure of document.
+
+Just like above few tags we see there n number of tags are used in HTML you will learn quite a lot of them in our next segment.
+
+
+
+
+
+
+HTML versions
+HTML 2.0
+HTML 3.0
+HTML 3.2
+HTML 4.0 Transitional
+HTML 4.0 Strict
+4.0 Frameset
+HTML 4.01 Transitional /Strict /Frameset
+HTML5
+XHTML 1.0 Transitional
+XHTML 1.0 Strict
+HTML 1.1
+
